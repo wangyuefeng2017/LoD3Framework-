@@ -9,3 +9,4 @@ We have integrated the three steps mentioned into a single Main_auto.py file. Ho
 
 # Other notes:
 We have validated this framework in a model based on photogrammetric mesh. If you want more information, please don't hesitate to contact me:Email:wangyuefeng2017@whu.edu.cn; wangyuefeng2021@glut.edu.cn
+This work has been published in ISPRS J P&RS. You can cited by "Wang, Y., Jiao, W., Fan, H., & Zhou, G. (2024). A framework for fully automated reconstruction of semantic building model at urban-scale using textured LoD2 data. ISPRS Journal of Photogrammetry and Remote Sensing, 216, 90-108".
